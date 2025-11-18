@@ -36,4 +36,5 @@ dist/
 *.egg-info/
 
 # Ignore all contents of the ideas folder
-ideas/
+ideas/*
+!ideas/.gitkeep
