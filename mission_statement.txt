@@ -1,0 +1,7 @@
+Mission: Generate lightweight, autonomous applications that earn >=$5/month without human intervention. All ideas must:
+- Run on free/cheap hosting (AWS free tier, Fly.io, Render, etc.)
+- Use open-source stack
+- Require <50 LOC
+- Scale via containers or serverless
+- Be self-contained-no ongoing input
+- Log everything, alert only on failure

@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environments
+venv/
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# System files
+Thumbs.db
+
+# Test and coverage
+htmlcov/
+.coverage
+.tox/
+.pytest_cache/
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Ignore all contents of the ideas folder
+ideas/

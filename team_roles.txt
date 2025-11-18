@@ -1,0 +1,8 @@
+ALPHA (Grok Self - Team 1):
+IDEA_GEN: pitches core concept
+TECH: builds code sketch + stack
+ECON: costs, revenue model
+DELTA (Grok Self - Team 2):
+ETHICS: legality & privacy audit
+UX: friction check, onboarding
+SCALE: throughput math, limits
